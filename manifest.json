@@ -1,0 +1,21 @@
+{
+  "name": "新聞速報 - 業務專用",
+  "short_name": "新聞速報",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFBF5",
+  "theme_color": "#FFFBF5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/9424/9424853.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/9424/9424853.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
